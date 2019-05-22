@@ -20,6 +20,7 @@ repositories {
 dependencies {
   implementation(kotlinArtifact("stdlib-jdk7"))
   implementation(kotlinArtifact("reflect"))
+  testImplementation(kotlinArtifact("test-junit"))
 
   implementation(androidX(AndroidX.APPCOMPAT))
   implementation(androidX(AndroidX.CORE_KTX))
