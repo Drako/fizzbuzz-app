@@ -11,6 +11,7 @@ local.properties
 *.iml
 .idea/*
 !.idea/codeStyles/
+!.idea/runConfigurations/
 
 # build directories
 build/
