@@ -37,10 +37,10 @@ object FizzBuzzProvider {
    *
    * @param number The number to be processed.
    * @return
-   *  Fizz, when the [number] is divisable by 3.
-   *  Buzz, when the [number] is divisable by 5.
-   *  FizzBuzz, when the [number] is divisable by both.
-   *  The [number] as a String otherwise.
+   *  - Fizz, when the [number] is divisable by 3.
+   *  - Buzz, when the [number] is divisable by 5.
+   *  - FizzBuzz, when the [number] is divisable by both.
+   *  - The [number] as a String otherwise.
    */
   fun fizzbuzz(number: Int): String {
     return RULES

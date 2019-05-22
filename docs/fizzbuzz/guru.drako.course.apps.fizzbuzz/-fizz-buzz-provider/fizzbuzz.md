@@ -15,8 +15,8 @@ Apply the default fizzbuzz rules to number.
 `number` - The number to be processed.
 
 **Return**
-Fizz, when the [number](fizzbuzz.html#guru.drako.course.apps.fizzbuzz.FizzBuzzProvider$fizzbuzz(kotlin.Int)/number) is divisable by 3.
-Buzz, when the [number](fizzbuzz.html#guru.drako.course.apps.fizzbuzz.FizzBuzzProvider$fizzbuzz(kotlin.Int)/number) is divisable by 5.
-FizzBuzz, when the [number](fizzbuzz.html#guru.drako.course.apps.fizzbuzz.FizzBuzzProvider$fizzbuzz(kotlin.Int)/number) is divisable by both.
-The [number](fizzbuzz.html#guru.drako.course.apps.fizzbuzz.FizzBuzzProvider$fizzbuzz(kotlin.Int)/number) as a String otherwise.
+* Fizz, when the [number](fizzbuzz.html#guru.drako.course.apps.fizzbuzz.FizzBuzzProvider$fizzbuzz(kotlin.Int)/number) is divisable by 3.
+* Buzz, when the [number](fizzbuzz.html#guru.drako.course.apps.fizzbuzz.FizzBuzzProvider$fizzbuzz(kotlin.Int)/number) is divisable by 5.
+* FizzBuzz, when the [number](fizzbuzz.html#guru.drako.course.apps.fizzbuzz.FizzBuzzProvider$fizzbuzz(kotlin.Int)/number) is divisable by both.
+* The [number](fizzbuzz.html#guru.drako.course.apps.fizzbuzz.FizzBuzzProvider$fizzbuzz(kotlin.Int)/number) as a String otherwise.
 
