@@ -24,6 +24,7 @@ dependencies {
 
   implementation(androidX(AndroidX.APPCOMPAT))
   implementation(androidX(AndroidX.CORE_KTX))
+  implementation(androidX(AndroidX.RECYCLERVIEW))
 
   implementation(ktxCoroutines("core"))
   implementation(ktxCoroutines("android"))
