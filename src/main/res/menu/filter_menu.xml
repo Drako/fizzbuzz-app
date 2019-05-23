@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/filter_all"
+        android:title="@string/filterAll" />
+
+    <item
+        android:id="@+id/filter_numbers"
+        android:title="@string/filterNumbers" />
+
+    <item
+        android:id="@+id/filter_fizz"
+        android:title="@string/filterFizz" />
+
+    <item
+        android:id="@+id/filter_buzz"
+        android:title="@string/filterBuzz" />
+
+    <item
+        android:id="@+id/filter_fizzbuzz"
+        android:title="@string/filterFizzBuzz" />
+</menu>

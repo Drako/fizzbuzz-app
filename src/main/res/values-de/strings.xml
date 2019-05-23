@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titleApp">FizzBuzz Deutsch</string>
+    <string name="filterAll">Alle</string>
+    <string name="filterNumbers">Nur Zahlen</string>
+    <string name="filterFizz">Nur Fizz</string>
+    <string name="filterBuzz">Nur Buzz</string>
+    <string name="filterFizzBuzz">Nur FizzBuzz</string>
+</resources>
